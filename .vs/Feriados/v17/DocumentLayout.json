@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC67D47-2608-4E38-A8E4-DC304FB3AE98}|Feriados\\Feriados.csproj|c:\\users\\pedro.henrique\\source\\repos\\feriados\\feriados\\calculosferiados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC67D47-2608-4E38-A8E4-DC304FB3AE98}|Feriados\\Feriados.csproj|solutionrelative:feriados\\calculosferiados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72082B39-4267-4B70-85F2-6694D33F04A7}|CalculosTests\\CalculosTests.csproj|c:\\users\\pedro.henrique\\source\\repos\\feriados\\calculostests\\testes\\calculostestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72082B39-4267-4B70-85F2-6694D33F04A7}|CalculosTests\\CalculosTests.csproj|solutionrelative:calculostests\\testes\\calculostestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC67D47-2608-4E38-A8E4-DC304FB3AE98}|Feriados\\Feriados.csproj|c:\\users\\pedro.henrique\\source\\repos\\feriados\\feriados\\calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC67D47-2608-4E38-A8E4-DC304FB3AE98}|Feriados\\Feriados.csproj|solutionrelative:feriados\\calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72082B39-4267-4B70-85F2-6694D33F04A7}|CalculosTests\\CalculosTests.csproj|c:\\users\\pedro.henrique\\source\\repos\\feriados\\calculostests\\testes\\feriadoteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72082B39-4267-4B70-85F2-6694D33F04A7}|CalculosTests\\CalculosTests.csproj|solutionrelative:calculostests\\testes\\feriadoteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeriadoTeste.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\CalculosTests\\Testes\\FeriadoTeste.cs",
+              "RelativeDocumentMoniker": "CalculosTests\\Testes\\FeriadoTeste.cs",
+              "ToolTip": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\CalculosTests\\Testes\\FeriadoTeste.cs",
+              "RelativeToolTip": "CalculosTests\\Testes\\FeriadoTeste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:18:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculosTestes.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\CalculosTests\\Testes\\CalculosTestes.cs",
+              "RelativeDocumentMoniker": "CalculosTests\\Testes\\CalculosTestes.cs",
+              "ToolTip": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\CalculosTests\\Testes\\CalculosTestes.cs",
+              "RelativeToolTip": "CalculosTests\\Testes\\CalculosTestes.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:18:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculosFeriados.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\Feriados\\CalculosFeriados.cs",
+              "RelativeDocumentMoniker": "Feriados\\CalculosFeriados.cs",
+              "ToolTip": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\Feriados\\CalculosFeriados.cs",
+              "RelativeToolTip": "Feriados\\CalculosFeriados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:18:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calendario.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\Feriados\\Calendario.cs",
+              "RelativeDocumentMoniker": "Feriados\\Calendario.cs",
+              "ToolTip": "C:\\Users\\pedro.henrique\\source\\repos\\Feriados\\Feriados\\Calendario.cs",
+              "RelativeToolTip": "Feriados\\Calendario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:11:21.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

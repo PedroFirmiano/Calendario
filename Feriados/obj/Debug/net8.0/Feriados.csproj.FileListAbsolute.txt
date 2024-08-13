@@ -1,0 +1,11 @@
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\bin\Debug\net8.0\Feriados.deps.json
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\bin\Debug\net8.0\Feriados.dll
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\bin\Debug\net8.0\Feriados.pdb
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.AssemblyInfoInputs.cache
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.AssemblyInfo.cs
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.csproj.CoreCompileInputs.cache
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.dll
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\refint\Feriados.dll
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\Feriados.pdb
+C:\Users\pedro.henrique\source\repos\Feriados\Feriados\obj\Debug\net8.0\ref\Feriados.dll
